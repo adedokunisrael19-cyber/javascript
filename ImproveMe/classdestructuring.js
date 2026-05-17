@@ -3,4 +3,6 @@
     age: 25,
     country: "Nigeria"}; 
 
-cosole.log(
+const {name, age, country} = user;
+console.log(name);
+
